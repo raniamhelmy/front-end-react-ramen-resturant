@@ -12,10 +12,10 @@ function Home() {
   return (
     <>
       <HeroSection />
-      <Products heading={'Choose your Favorite'} data={ramenData}/>
+      <Products heading={'Choose your FAVORITE'} data={ramenData}/>
       <Speciality/>
-      <Desserts heading={'Sweet Treats for You'} data={dessertData}/>
-      <Drinks heading={'Beverages from Heaven'} data={drinksData}/>
+      <Desserts heading={'Sweet Treats for YOU'} data={dessertData}/>
+      <Drinks heading={'Beverages from HEAVEN'} data={drinksData}/>
       <Footer/>
     </>
   );
