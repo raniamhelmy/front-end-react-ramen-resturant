@@ -24,7 +24,7 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ```
-$ cd ../ramen
+$ cd ../fe-react-ramen
 $ npm install
 $ npm start
 ```
